@@ -7,3 +7,33 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* stylelint-enable */
 
 /* Begin site styles below */
+
+html {
+  color: #fff;
+  background: #222;
+  font-family: "Times New Roman", Times, serif;
+}
+
+nav {
+  padding-bottom: 14px;
+}
+
+a {
+  color: red;
+  padding-bottom: 14px;
+}
+
+h1 {
+  font-size: 32px;
+  padding-bottom: 14px;
+}
+
+h2 {
+  font-size: 24px;
+  padding-bottom: 14px;
+}
+
+h3 {
+  font-size: 18.72px;
+  padding-bottom: 14px;
+}
