@@ -40,16 +40,15 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
-  padding-bottom: 14px;
-  padding-top:14px;
+  font-size: 1.5em;
+  line-height: 1em;
+  margin: 1em 0 0.75em 0;
 }
 
 h3 {
-  font-size: 18.72px;
-  padding-bottom: 14px;
-  padding-top:14px;
-  text-indent: 24px;
+  font-size: 1.25em;
+  line-height: 1em;
+  margin: 1.25em 0 0.5em 0;
 }
 
 li {
