@@ -35,7 +35,6 @@ nav {
 
 a {
   color: red;
-  padding-bottom: 14px;
 }
 
 h1 {
@@ -63,4 +62,12 @@ li {
 
 p {
   margin: 0 0 1em 0;
+}
+
+main {
+  display: flex;
+  position: relative;
+  margin: 1em;
+  min-height: 10vh;
+  flex-direction: column;
 }
