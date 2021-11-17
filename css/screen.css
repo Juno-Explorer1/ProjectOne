@@ -16,7 +16,7 @@ body {
 }
 
 header {
-  background-color: black;
+  background-color: #121212;
   color: white;
 }
 
@@ -31,6 +31,7 @@ nav {
   padding: 1em;
   text-align: center;
   margin: auto;
+  list-style-type: none;
 }
 
 a {
