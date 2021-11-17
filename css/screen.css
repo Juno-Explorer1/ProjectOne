@@ -16,9 +16,9 @@ body {
 }
 
 nav {
-  border: 2px solid silver;
-  padding: 14px;
-  padding-bottom: 14px;
+  border: 0.25em solid silver;
+  padding: 1em;
+  padding-bottom: 1em;
 }
 
 a {
