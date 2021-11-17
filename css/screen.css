@@ -8,10 +8,11 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
-html {
-  color: #fff;
-  background: #222;
-  font-family: "Times New Roman", Times, serif;
+body {
+  background-color: #121212;
+  color: white;
+  font: 1em/1.5 "Times New Roman", Times, serif;
+  line-height: 1;
 }
 
 nav {
@@ -41,8 +42,14 @@ h3 {
   font-size: 18.72px;
   padding-bottom: 14px;
   padding-top:14px;
+  text-indent: 24px;
 }
 
 li {
   padding-bottom: 14px;
+  text-indent: 24px;
+}
+
+p {
+  text-indent: 24px;
 }
