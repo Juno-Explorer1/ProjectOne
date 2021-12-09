@@ -33,6 +33,17 @@ nav {
   margin: auto;
 }
 
+nav ul {
+  list-style: none;
+
+  display: flex;
+  flex-direction: row;
+}
+
+nav a{
+  padding: 7.5em;
+}
+
 a {
   color: red;
 }
