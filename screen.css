@@ -82,3 +82,8 @@ main {
   min-height: 10vh;
   flex-direction: column;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+}
